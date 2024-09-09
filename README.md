@@ -6,7 +6,7 @@ i9engine.app@gmail.com
 
 on Flutter!
 
-![itm_1_1_5_25.apk:) ](apk/itm_1_1_5_25.apk )
+![Download: iTerraMessenger APK /arm64-v8a/ :) ](apk/itm_1_1_5_25.apk )
 
 ![iTerraMessenger:) ](images/iTerraMessenger_003.png )
 
@@ -48,4 +48,3 @@ Provider, flutter Bloc
 ![iTerraMessenger :) ](images/iTerraMessenger_010.png)
 ![iTerraMessenger :) ](images/iTerraMessenger_011.png)
 ![iTerraMessenger :) ](images/iTerraMessenger_012.png)
-![iTerraMessenger :) ](images/iTerraMessenger_013.png)
