@@ -23,18 +23,6 @@ Firebase App check,
 Provider, 
 flutter Bloc
 
-//************************************************************************
-
-Мой экспериментальный проект - простой мессенджер!
-Цель: создать приложение для обмена сообщениями.
-
-Использовались технологии:
-Firebase: 
-Firebase Messaging,
-Firebase Auth, 
-Firebase Storage,
-Firebase App check, 
-Provider, flutter Bloc
 
 ![iTerraMessenger :) ](images/iTerraMessenger_001.png)
 ![iTerraMessenger :) ](images/iTerraMessenger_002.png)
